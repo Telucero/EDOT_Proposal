@@ -1,8 +1,5 @@
 # Research Project: Engagement Detection in Online Teaching (EDOT)
 
-
-
-# Title: Engagement Detection in Online Teaching
 # Acronym: EDOT
 ## Applicants:
 Fabio Fiori
