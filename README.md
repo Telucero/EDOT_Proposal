@@ -1,6 +1,5 @@
 # Research Project: Engagement Detection in Online Teaching (EDOT)
 
-# Acronym: EDOT
 ## Applicants:
 Fabio Fiori
 Paloma Dominguez Sanchez
