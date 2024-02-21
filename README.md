@@ -1,10 +1,11 @@
 # Research Project: Engagement Detection in Online Teaching (EDOT)
 
 ## Applicants:
-Fabio Fiori
-Paloma Dominguez Sanchez
-Taylor Evan Lucero
-Proposal Summary
+1. Fabio Fiori
+2. Paloma Dominguez Sanchez
+3. Taylor Evan Lucero
+   
+## Proposal Summary
 The project aims to develop a digital tool for real-time detection of students' engagement levels in online teaching environments. By combining Facial Expression Recognition CNN (FERC) and Long Short-Term Memory (LSTM) models, the tool will analyze facial expressions, actions, and on-screen activity to classify engagement levels as low, normal, or high. This tool will provide valuable insights to teachers, enabling them to enhance teaching effectiveness and improve learning outcomes in online education.
 
 ## Laymen Abstract
