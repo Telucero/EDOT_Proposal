@@ -12,6 +12,6 @@ The project aims to develop a digital tool for real-time detection of students' 
 We're building a tool to gauge how engaged students are during online classes. Using facial recognition and machine learning, our tool will analyze students' facial expressions and actions in real-time. This will help teachers understand how engaged their students are and improve their teaching methods accordingly.
 
 ## Expected Impact
-Enhanced teaching effectiveness
-Improved learning outcomes in online education
-Valuable insights for teachers to adjust teaching strategies
+Enhannce teaching effectiveness
+Improve learning outcomes in online education
+Provide actionable and valuable insights for teachers to adjust teaching strategies
